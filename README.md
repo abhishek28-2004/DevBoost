@@ -124,7 +124,7 @@ npm --version
 ### Step 1: Navigate to Web Dev Folder
 
 ```bash
-cd "/Applications/Python 3.9/Akanksha/Shivanshu/Web Dev"
+cd "C:\Users\Abhishek Yadav\DevBoost"
 ```
 
 ### Step 2: Backend Setup
